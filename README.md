@@ -1,4 +1,4 @@
-# GeneticTimetables
+# AutoTimeTableGenerator
 
 This project executes for generating schedule grid by using Genetic Algorithm.
 There is a description below.
@@ -72,5 +72,5 @@ Timetable will be saved with pushing button “Export”. If user wants to take 
 ![изображение](https://github.com/Firyst/GeneticTimetables/assets/113290258/28de482f-c960-463f-bca6-0f874bfff1ff)
 
 
-Generate timetables using GA  
-MIEM, 2023
+ 
+

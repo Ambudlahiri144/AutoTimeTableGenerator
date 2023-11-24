@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources"/>
+    <qresource prefix="/resources/translations">
+        <file>resources/translations/QtLanguage_en.qm</file>
+        <file>resources/translations/QtLanguage_en.ts</file>
+        <file>resources/translations/QtLanguage_ru.qm</file>
+        <file>resources/translations/QtLanguage_ru.ts</file>
+    </qresource>
+</RCC>

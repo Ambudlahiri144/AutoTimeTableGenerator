@@ -1,0 +1,205 @@
+{
+    "Slider_0": 3,
+    "Slider_1": 4,
+    "Slider_9": 2500,
+    "Slider_10": 7,
+    "Slider_11": 3,
+    "Slider_12": 0.009999999776482582,
+    "Slider_2": 25,
+    "Slider_3": 7.200000286102295,
+    "Slider_4": 0.5,
+    "Slider_5": 3,
+    "Slider_6": 0.5,
+    "Slider_7": 1,
+    "Slider_8": 40000,
+    "rules": [
+        {
+            "Amount": 3,
+            "Selected": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true
+                ]
+            ],
+            "Subject": "Linalg",
+            "Teacher": ""
+        },
+        {
+            "Amount": 4,
+            "Selected": [
+                [
+                    true,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "Subject": "Prog",
+            "Teacher": ""
+        },
+        {
+            "Amount": 2,
+            "Selected": [
+                [
+                    true,
+                    false,
+                    true,
+                    true,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    false,
+                    true,
+                    true,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    false,
+                    true,
+                    true,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    false,
+                    true,
+                    true,
+                    false,
+                    false
+                ]
+            ],
+            "Subject": "Calculus",
+            "Teacher": ""
+        },
+        {
+            "Amount": 1,
+            "Selected": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                ]
+            ],
+            "Subject": "Lecture - networks",
+            "Teacher": ""
+        }
+    ]
+}
